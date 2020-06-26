@@ -20,4 +20,4 @@ for i in file:
         im.save("boya_"+i) # kenarlari bulunan resim 'boya_' isminde tekrar kaydedildi
 
 
-
+/+bankalar-×0;
