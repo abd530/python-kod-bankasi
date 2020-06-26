@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#-*- coding: utf-8 -*-
+#-diskowl"f/&-0;
 
 # all directory *.py remover for django
 # https://electrocoder.wordpress.com/
